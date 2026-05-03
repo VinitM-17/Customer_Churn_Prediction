@@ -170,7 +170,7 @@ Actual: Churned        ❌ FN               ✅ TP
 
 ## 👤 Author
 
-**[Your Name]**
+**Vinit M**
 ML Internship Project — Internshala Trainings
 
 ---
